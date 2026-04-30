@@ -90,8 +90,8 @@ The dashboard helps uncover key business insights related to sales, profit, and 
 
 **Your Name**
 
-* LinkedIn: [Paste your LinkedIn link]
-* GitHub: [Paste your GitHub profile link]
+* LinkedIn: linkedin.com/in/avineesh-gupta-data-analyst
+* GitHub: (https://github.com/avineeshgupta-boop)
 
 ---
 
