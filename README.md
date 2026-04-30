@@ -62,7 +62,10 @@ The dashboard helps uncover key business insights related to sales, profit, and 
 
 ## 📸 Dashboard Preview
 
-*(Add screenshots here for better visibility)*
+*<img width="1366" height="768" alt="Assignment4 Screenshot14" src="https://github.com/user-attachments/assets/56d95832-a761-442a-be3e-6b9cc91c4eb4" />
+<img width="1366" height="768" alt="Assignment4 Screenshot15" src="https://github.com/user-attachments/assets/cc9c0c3a-8912-4e51-91a8-b9086c356944" />
+
+*
 
 ---
 
